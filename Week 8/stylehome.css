@@ -141,3 +141,8 @@ form button::before {
    form button:hover::before {
     width: 100%;
    }
+   @media (max-width: 572px) {
+    .header-content {
+        width: 100%;
+    }
+}
