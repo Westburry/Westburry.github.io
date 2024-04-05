@@ -29,7 +29,6 @@ header {
 }
 .header-top {
     background-color: #d08b2b;
-    box-shadow: 3px 3px 5px  rgba(0,0,0,.2);
 }
 .header-top ul {
    width: 100% ;
